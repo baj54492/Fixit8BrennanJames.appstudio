@@ -59,8 +59,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "twoForms",
-            "twoForms.json"
+            "twoControls",
+            "twoControls.json"
           ]
         }
       ],
@@ -85,7 +85,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "twoForms",
+      "firstform": "login",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",

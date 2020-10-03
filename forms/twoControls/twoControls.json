@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "twoForms",
+        "twoControls",
         "Elements",
         "drpdwn.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "twoForms",
+        "twoControls",
         "Elements",
         "Checkbox1.json"
       ]
@@ -35,7 +35,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "twoForms",
+  "id": "twoControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
